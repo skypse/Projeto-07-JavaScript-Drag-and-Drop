@@ -2,7 +2,7 @@
 https://github.com/skypse/Projeto-07-JavaScript-Drag-and-Drop/assets/97822775/36ebaf16-0684-4ce5-8407-a18b99d5567d
 
 
-Este é um jogo clássico de Snake, onde o jogador controla uma cobra que se move pelo tabuleiro, comendo comida e crescendo em tamanho. O objetivo é evitar colidir com as bordas do tabuleiro ou com o próprio corpo da cobra.
+Projeto que demonstra a funcionalidade de arrastar e soltar (drag and drop) elementos em uma página da web. Ele oferece uma interface interativa que permite aos usuários arrastar elementos de uma área para outra.
 
 ### ⚙️ Funcionalidades Principais:
 
